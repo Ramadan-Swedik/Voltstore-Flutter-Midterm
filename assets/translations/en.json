@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "VoltStore",
+    "tagline": "Next-Gen Tech & Smart Gadgets",
+    "currency": "LYD"
+  },
+  "theme": {
+    "light_mode": "Light mode",
+    "dark_mode": "Dark mode"
+  },
+  "splash": {
+    "loading": "Powering up your store..."
+  },
+  "onboarding": {
+    "skip": "Skip",
+    "next": "Next",
+    "done": "Get Started",
+    "page1_title": "Discover Next-Gen Tech",
+    "page1_body": "Explore hand-picked audio gear, wearables, keyboards, and smart gadgets built for everyday creators.",
+    "page2_title": "Fast & Safe Delivery",
+    "page2_body": "Verified warranty on every gadget with lightning-fast doorstep shipping straight to you.",
+    "page3_title": "Shop Your Way",
+    "page3_body": "Switch smoothly between Light and Dark themes, and browse comfortably in English or Arabic anytime."
+  },
+  "login": {
+    "title": "Welcome back",
+    "subtitle": "Log in to explore VoltStore",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot password?",
+    "forgot_snack": "Password reset is UI-only in this demo.",
+    "button": "Login",
+    "no_account": "Don't have an account?",
+    "signup_link": "Sign up"
+  },
+  "signup": {
+    "app_bar": "Sign Up",
+    "title": "Create account",
+    "subtitle": "Sign up to start shopping with VoltStore",
+    "full_name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm password",
+    "button": "Create account",
+    "have_account": "Already have an account?",
+    "login_link": "Log in"
+  },
+  "home": {
+    "title": "VoltStore",
+    "greeting": "Hello, {user}!",
+    "guest": "Tech Explorer",
+    "banner_title": "New Tech Drops",
+    "banner_subtitle": "Smart gear designed for speed and style",
+    "categories_title": "Categories",
+    "products_title": "Featured Gadgets",
+    "all_filter": "All",
+    "settings_tooltip": "Settings"
+  },
+  "categories": {
+    "all": "All",
+    "audio": "Audio",
+    "wearables": "Wearables",
+    "keyboards": "Keyboards",
+    "drones": "Drones",
+    "cameras": "Cameras"
+  },
+  "details": {
+    "title": "Product Details",
+    "description_title": "About this gadget",
+    "in_stock": "In Stock · 2-Year Warranty",
+    "add_to_cart": "Add to Cart",
+    "added_snack": "{name} added to your cart!",
+    "price_label": "Price"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance_section": "Appearance",
+    "dark_mode": "Dark mode",
+    "dark_mode_subtitle_on": "Dark theme is active",
+    "dark_mode_subtitle_off": "Light theme is active",
+    "language_section": "Language",
+    "language_label": "App language",
+    "language_subtitle": "Switch between English and Arabic (RTL)",
+    "account_section": "Account",
+    "signed_in_as": "Signed in as {user}",
+    "logout": "Log out",
+    "about_section": "About",
+    "version": "VoltStore · Midterm Edition v1.0"
+  },
+  "products": {
+    "headphones_name": "Volt Air Pro",
+    "headphones_desc": "Active noise-cancelling wireless over-ear headphones with 42-hour battery life, plush memory foam cushions, and spatial studio sound.",
+    "smartwatch_name": "Chrono Pulse S",
+    "smartwatch_desc": "Ultra-light titanium smartwatch with an always-on AMOLED display, dual-band GPS, heart-rate tracking, and 10-day battery endurance.",
+    "keyboard_name": "KeyForge 75",
+    "keyboard_desc": "Compact 75% wireless mechanical keyboard featuring hot-swappable tactile switches, aluminum frame, and crisp cyan edge lighting.",
+    "drone_name": "AeroMini 4K",
+    "drone_desc": "Palm-sized foldable camera drone capturing stabilized 4K/60fps HDR video with 34 minutes of flight time and smart obstacle sensing.",
+    "speaker_name": "Sonic Orb",
+    "speaker_desc": "360-degree portable smart speaker wrapped in acoustic mesh with deep punchy bass, IP67 water resistance, and ambient ring lighting.",
+    "camera_name": "Luma X200",
+    "camera_desc": "Pocket-friendly mirrorless digital camera with a 26MP APS-C sensor, fast eye-tracking autofocus, and crisp color science for creators."
+  }
+}
